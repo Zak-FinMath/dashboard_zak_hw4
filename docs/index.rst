@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-This is an interactive book with some dashboards
+This is Zak's interactive dashboard project
 ============================================
 
 Check out my dashboards.
